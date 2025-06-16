@@ -87,7 +87,7 @@ h1{
     border: radius white 2px;
 }
 .div2{
-  background-image: url(/assets/hojasFondo.jpg);
+  background-image: url(../assets/hojasFondo.jpg);
    display: flex;
    width: 50vw;
    height: 35vw;
